@@ -3,6 +3,8 @@
 
 install the xampp 
 start the server
+
+In database folder have one db file this is import in xampp phpmyadmin database
 run site on localhost/folder name/file name
 
 set the connection of database add there mysql username and password
